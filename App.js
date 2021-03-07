@@ -5,7 +5,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.Colorss}>Xvideos.com</Text>
+      <Text style={styles.Colorss}>deep you go to xnxx.com</Text>
+      
+      <Text style={styles.Colorss}>deep you go to xnxx.com</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -20,7 +22,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   Colorss:{
-    color:"red",
-    fontSize: "90px",
+    color:"white",
+    fontSize: "20px",
+    margin:"10",
+    fontWeight:"bold",
+    backgroundColor:"red"
   }
 });
